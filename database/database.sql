@@ -1,4 +1,4 @@
--- hello world!
+-- bye world!
 -- PostgreSQL database dump
 --
 
