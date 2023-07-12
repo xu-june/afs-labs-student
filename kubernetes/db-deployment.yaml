@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: db-deployment
-        image: harbor.dev.afsmtddso.com/jxu-harbor-project/db:971c881-4600925
+        image: registry.dev.afsmtddso.com/jxu-harbor-project/db:7786cd9-a0f05e9
         ports:
         - containerPort: 5432
